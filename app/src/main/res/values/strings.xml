@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PoliceSearch</string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="search_id">Name,PS,SI or CI or any etc.</string>
+</resources>
